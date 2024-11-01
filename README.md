@@ -22,6 +22,6 @@ Write code that computes $y$ for the same set of values of $x$ as before ($x = 1
 Then evaluate $\frac{y - 1}{\ln{(y)}}$ for the resulting values of $y$.
 Report your results at the end of this `README.md` file.
 
-At the end of this `README.md` file, explain your observations *in detail*.
+At the end of this `README.md` file, explain your observations *in detail*, including the *specific reasons* for any differences in numerical stability.
 
 ## Answer
