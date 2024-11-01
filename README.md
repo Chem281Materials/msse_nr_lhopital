@@ -8,7 +8,7 @@ $$\lim_{x \to 0} \frac{e^{x} - 1}{x}$$
 
 Using L'Hopital's rule, it is straigtforward to prove that the value of this limit is `1`.
 
-Write a code that numerically estimates the value of the above limit, by evaluating $\frac{e^{x} - 1}{x}$ for several values of `x`.
+Write C++ code that numerically estimates the value of the above limit, by evaluating $\frac{e^{x} - 1}{x}$ for several values of `x`.
 In particular, use values of $x = 10^{-5}$, $10^{-6}$, $10^{-7}$, $10^{-8}$, $10^{-9}$, $10^{-10}$, $10^{-11}$, $10^{-12}$, $10^{-13}$, $10^{-14}$, and $10^{-15}$.
 Report your results at the end of this `README.md` file.
 
